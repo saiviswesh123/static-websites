@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.book-store-page-bg-container {
+  background-color: #1b1b1b;
+  height: 100vh;
+}
+.book-store-page-main-heading {
+  color: white;
+  font-family: "Bree serif";
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.popular-book-card-container {
+  background-color: #e6f6ff;
+
+  width: 600px;
+  border-radius: 10px;
+  margin-left: 100px;
+}
+.contents {
+  padding: 30px;
+}
+
+.kalam-image {
+  height: 300px;
+}
+.wings-of-fire-heading {
+  color: #20557e;
+  font-family: "Bree serif";
+}
+.wings-of-fire-description {
+  color: #1b1b1b;
+  font-family: "Bree serif";
+  font-size: 25px;
+}
+.wings-of-fire-sub-heading {
+  color: #20557e;
+  font-family: "Bree serif";
+  font-size: 20px;
+}
+.popular-book-contents {
+  text-align: center;
+}
+.read-botton {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.recommended-books {
+  background-color: #1b1b1b;
+}
+.recommended-books-main-heading {
+  padding-bottom: 10px;
+}
+.recommended-book1-image {
+  height: 250px;
+}
+.recommended-book1-heading {
+  color: white;
+  font-family: "Bree serif";
+  font-size: 30px;
+  padding-bottom: 20px;
+  margin-top: 30px;
+}
+.recommended-book1-description {
+  color: #9aa5b1;
+  padding-bottom: 10px;
+}
+
+.detailed-view-bg-container {
+  background-color: #1b1b1b;
+  background-size: cover;
+}
+.kalam-detailed-view-image {
+  height: 500px;
+  margin-top: 30px;
+}
+.detailed-view-contents {
+  font-family: "Bree serif";
+  text-align: center;
+}
+.detailed-view-main-heading {
+  color: white;
+  font-size: 30px;
+  margin-top: 30px;
+  font-size: 40px;
+}
+.detailed-view-sub-heading {
+  color: #9aa5b1;
+  margin: 20px;
+  font-size: 25px;
+}
+.detailed-view-description {
+  color: #e4e7eb;
+  margin: 20px;
+}
+.back-button {
+  font-family: "Roboto";
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.buynow-button {
+  font-family: "Roboto";
+  margin-bottom: 20px;
+}

@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.yoga-homepage-bg-container
+{
+   background-image:url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+   
+   background-size:cover;
+}
+.yoga-homepage-main-heading
+{
+   color:#132d84;
+   text-align:center;
+   font-family:"Roboto";
+   font-weight:bold;
+   padding:40px;
+}
+.yoga-girl-image
+{
+   height:500px;   
+}
+.yoga-homepage-bottom-contents
+{
+   font-family:"Roboto";
+   text-align:center;
+   padding:30px;
+  
+}
+.button
+{
+    background-color:#132d84;
+    color:#ffedcb;
+    border-width:0px;
+    padding:10px;
+}
+
+
+.yogatypes-page-bg-container
+{
+   background-color:#ffedcb;
+   
+}
+.yogatypes-main-heading
+{
+   color:#253263;
+   font-family:"Roboto";
+   text-align:center;
+  
+}
+.yoga-girl-without-headphones-image
+{
+   height:300px;
+    padding:20px;
+}
+.yogaone-card-container
+{
+   height:40vh;
+   width:60vw;
+   
+  
+}
+.yogaone-card-bg-container
+{
+   background-color:#ffe2ab;
+   
+   
+   border-radius:20px;
+}
+.yogaone-contents
+{
+   font-family:"Roboto";
+   color:#323f4b;
+   margin-top:50px;
+}
+.yogaone-image
+{
+   height:200px;
+   padding:20px;
+}
+.back-button
+{
+   margin-bottom:20px;
+   width:100px;
+
+}

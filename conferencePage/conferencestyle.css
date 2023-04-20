@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.conference-page-bg-container
+{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/conference-img.png");
+    height:100vh;
+    background-size:cover;
+}
+.conference-page-description-container
+{
+    font-family:"Roboto";
+    padding:20px;
+}
+.conference-page-main-heading
+{
+    color:#183b56;
+    padding-right:30px;
+}
+.conference-page-description
+{
+     color:#5a7184;
+     padding-right:30px;
+}
+.conference-page-video-description
+{
+  padding:20px;
+}
+.back-button
+{
+  padding:10px;
+}
